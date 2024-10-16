@@ -1,0 +1,20 @@
+h2{
+    color:blue;
+    background-color: yellowgreen;
+    text-align: right;
+}
+#custom-header{
+    color: black;
+}
+.p3{
+    color: blueviolet;
+    background-color: aliceblue;
+}
+.text-prop{
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration-color:brown;
+}
